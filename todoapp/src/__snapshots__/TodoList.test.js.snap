@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <label
+        for="task"
+      >
+        task:
+      </label>
+      <input
+        id="task"
+        name="task"
+        value=""
+      />
+      <button>
+        Add a new Todo!
+      </button>
+    </form>
+    <br />
+    <div
+      class="todo"
+    >
+      <span>
+        Learn React basics
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Go grocery shopping
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Work out at the gym
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Read a new book
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Prepare a report for work
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Plan a weekend trip
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+    <div
+      class="todo"
+    >
+      <span>
+        Cook a new recipe
+      </span>
+      <button>
+        X
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
